@@ -1,0 +1,38 @@
+{
+  "name": "simplelogin",
+  "version": "0.0.1",
+  "description": "A client-side Javascript library for adding SimpleLogin button",
+  "homepage": "https://simplelogin.io",
+  "main": "dist/simplelogin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simple-login/sdk.js"
+  },
+  "keywords": [
+    "simplelogin",
+    "oauth",
+    "oauth2"
+  ],
+  "author": {
+    "name": "Son Nguyen Kim",
+    "email": "son@simplelogin.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simple-login/sdk.js/issues"
+  },
+  "devDependencies": {
+    "less": "^2.7.3",
+    "grunt": "^0.4.5",
+    "grunt-banner": "^0.4.0",
+    "grunt-bumpup": "^0.6.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^3.2.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jscs": "^1.8.0",
+    "grunt-mocha-phantomjs": "^0.4.3",
+    "mocha": "^1.18.2",
+    "shunt": "^0.1.4",
+    "sinon": "~1.7.3"
+  }
+}
