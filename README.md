@@ -10,7 +10,7 @@ To use it, first include the SDK into the html and add the "Login with SimpleLog
 <button id="btn-simplelogin">Login with Simplelogin</button>
 <div id="user-info"></div>
 
-<script src="https://cdn.jsdelivr.net/gh/simple-login/sdk.js@1.0/dist/sdk.min.js"></script>
+<script src="https://simplelogin.io/sdk/sdk.js"></script>
 ```
 
 Second, use it to log user in. Please make sure to replace `{your SimpleLogin client-oauth-id}`.
