@@ -22,7 +22,7 @@
     "url": "https://github.com/simple-login/sdk.js/issues"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.3",
     "grunt-banner": "^0.4.0",
     "grunt-bumpup": "^0.6.1",
     "grunt-contrib-uglify": "^3.2.1",
